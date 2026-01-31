@@ -756,7 +756,7 @@ img {
 .modal-check-label {
     font-weight: 400;
     font-size: 12px;
-    line-height: 1.2;
+    line-height: 1.33;
     letter-spacing: 0.04em;
     color: #8e8f99;
     display: flex;
@@ -784,7 +784,7 @@ img {
 }
 
 .modal-check:checked+.modal-check-label .span-checkbox {
-    background-color: #4d5ae5;
+    background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
 }
